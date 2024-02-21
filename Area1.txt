@@ -1,0 +1,8 @@
+n ! n ! n ! n i
+i ! ! n c ! n n
+s i ! i n ! ! c
+! c n ! ! n ! !
+n ! n ! i n n i
+! ! i n n ! ! n
+n n n ! i ! ! c
+i c ! ! ! ! c f
